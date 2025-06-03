@@ -1,4 +1,8 @@
-public final class app/revanced/patches/example/ExamplePatchKt {
-	public static final fun getExamplePatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+public final class io/github/vincetheprogrammer/patches/sticknodes/limits/FingerprintsKt {
+	public static final fun getTouchDownFingerprint ()Lapp/revanced/patcher/Fingerprint;
+}
+
+public final class io/github/vincetheprogrammer/patches/sticknodes/limits/RemoveNodeLimitKt {
+	public static final fun getRemoveNodeLimitPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 

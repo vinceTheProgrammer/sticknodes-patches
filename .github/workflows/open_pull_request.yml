@@ -11,6 +11,7 @@ env:
 
 jobs:
   pull-request:
+    environment: main
     name: Open pull request
     runs-on: ubuntu-latest
     steps:

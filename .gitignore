@@ -122,8 +122,8 @@ gradle-app.setting
 # Dependency directories
 node_modules/
 
-# gradle properties, due to Github token
-./gradle.properties
+# local properties, where the secrets are stored
+local.properties
 
 # Ignore IDEA files
 .idea/
