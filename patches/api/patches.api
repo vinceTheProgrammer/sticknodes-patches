@@ -1,4 +1,10 @@
 public final class io/github/vincetheprogrammer/patches/sticknodes/limits/FingerprintsKt {
+	public static final fun getSetInfoLabelToolTableFingerprint ()Lapp/revanced/patcher/Fingerprint;
+	public static final fun getSetNodeCountToolTableFingerprint ()Lapp/revanced/patcher/Fingerprint;
+	public static final fun getSetPasteSegment1Fingerprint ()Lapp/revanced/patcher/Fingerprint;
+	public static final fun getSetPasteSegment2Fingerprint ()Lapp/revanced/patcher/Fingerprint;
+	public static final fun getSplitSegmentFingerprint1 ()Lapp/revanced/patcher/Fingerprint;
+	public static final fun getSplitSegmentFingerprint2 ()Lapp/revanced/patcher/Fingerprint;
 	public static final fun getTouchDownFingerprint ()Lapp/revanced/patcher/Fingerprint;
 }
 
