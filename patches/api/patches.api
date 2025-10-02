@@ -1,3 +1,12 @@
+public final class com/HZ/CustomFilters/CustomFiltersKt {
+	public static final fun getAddCustomFilterSlot ()Lapp/revanced/patcher/patch/BytecodePatch;
+	public static final fun getCustomFilterFingerprint ()Lapp/revanced/patcher/Fingerprint;
+}
+
+public final class com/HZ/CustomFilters/FingerprintsKt {
+	public static final fun getFigureFiltersInitFingerprint ()Lapp/revanced/patcher/Fingerprint;
+}
+
 public final class io/github/vincetheprogrammer/patches/sticknodes/limits/FingerprintsKt {
 	public static final fun getSetInfoLabelToolTableFingerprint ()Lapp/revanced/patcher/Fingerprint;
 	public static final fun getSetNodeCountToolTableFingerprint ()Lapp/revanced/patcher/Fingerprint;
