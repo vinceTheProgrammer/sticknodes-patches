@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/vinceTheProgrammer/sticknodes-patches/compare/v1.1.0...v1.2.0) (2025-10-02)
+
+
+### Features
+
+* add HZ's custom filters patch ([5c34e13](https://github.com/vinceTheProgrammer/sticknodes-patches/commit/5c34e1325a46b7d189be117c8671d31bd378cef7))
+
 # [1.1.0](https://github.com/vinceTheProgrammer/sticknodes-patches/compare/v1.0.0...v1.1.0) (2025-06-04)
 
 
